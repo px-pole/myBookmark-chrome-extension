@@ -1,4 +1,4 @@
-- To open, extract the file whenever on your computer.
+- To open, extract the file on your computer.
 - Go to your extension tab and turn on the Developer mode.
 - Click on 'Load unpacked'. Explorer will appear.
 - Navigate to the folder where you extracted the files and click OK.
